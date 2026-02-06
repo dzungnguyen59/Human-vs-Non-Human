@@ -3,5 +3,3 @@ tensorflow==2.19.0
 keras==3.10.0
 pillow
 numpy
-gdown
-python==3.10.11
