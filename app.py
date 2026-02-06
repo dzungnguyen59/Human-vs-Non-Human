@@ -2,7 +2,6 @@ import os
 import numpy as np
 from PIL import Image
 import streamlit as st
-from dotenv import load_dotenv
 import tensorflow as tf
 from tensorflow.keras.applications.resnet50 import preprocess_input
 from pathlib import Path
